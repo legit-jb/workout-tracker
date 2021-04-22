@@ -24,3 +24,5 @@ The user should be able to:
 There is no license given or implied.
 
 ## Github and Deployed Link
+Github: https://github.com/legit-jb/workout-tracker
+Deployed: https://legit-jb.github.io/workout-tracker
