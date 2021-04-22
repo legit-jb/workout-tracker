@@ -16,9 +16,10 @@ The user should be able to:
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+    ![screen shot of the app](./assets/images/screenshot1.png)
+    ![screen shot of the app](./assets/images/screenshot2.png)
+    
 
 ## License
 There is no license given or implied.
